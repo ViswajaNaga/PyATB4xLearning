@@ -9,4 +9,4 @@ print("amit")
 print(max(10, 30, 40))
 
 #print(max(ram,100))  # cannot compare str and int
-print(min(90, 80, -10))
+print(min(90, 80, -10, -20))

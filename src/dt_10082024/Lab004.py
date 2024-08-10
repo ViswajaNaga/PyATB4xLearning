@@ -14,8 +14,8 @@ print(keyword.kwlist)
 
 age = 20
 print(age)
+print(type(age))
 
 age = "ravi"  # variable name = Variable Value
 print(age)
-
 print(type(age))
