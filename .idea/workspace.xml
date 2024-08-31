@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f505a03-bd33-4a8a-9e9c-1f9ccb04301e" name="Changes" comment="changes added">
-      <change afterPath="$PROJECT_DIR$/src/dt_10082024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_10082024/Lab004.py" afterDir="false" />
+    <list default="true" id="9f505a03-bd33-4a8a-9e9c-1f9ccb04301e" name="Changes" comment="Added new files">
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_17082024/Lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_17082024/Lab017.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dt_13082024/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dt_13082024/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +30,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ViswajaNaga"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ViswajaNaga&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ViswajaNaga/PyATB4xLearning.git",
-    "accountId": "e2fe5a0f-c84a-4022-b25f-e60bc6d06901"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ViswajaNaga/PyATB4xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;e2fe5a0f-c84a-4022-b25f-e60bc6d06901&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2kSTR7bFOLTC8JloEybNFEfAbDa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -53,10 +59,37 @@
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Task4.executor": "Run",
+    "Python.Task5.executor": "Run",
+    "Python.Task6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Balakrishna/PycharmProjects/PyATB4xLearning/src/dt_17082024"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\dt_17082024" />
+      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\dt_13082024" />
+      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\dt_08082024" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\Tasks" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
@@ -118,12 +151,87 @@
       <option name="project" value="LOCAL" />
       <updated>1723278542920</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="changes added">
+      <option name="closed" value="true" />
+      <created>1723282088356</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723282088356</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changes added">
+      <option name="closed" value="true" />
+      <created>1723283446944</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723283446944</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changes added">
+      <option name="closed" value="true" />
+      <created>1723283787074</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723283787074</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changes added">
+      <option name="closed" value="true" />
+      <created>1723538974327</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723538974327</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changes added">
+      <option name="closed" value="true" />
+      <created>1723539411444</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723539411444</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new learnings">
+      <option name="closed" value="true" />
+      <created>1723544086737</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723544086737</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new learnings">
+      <option name="closed" value="true" />
+      <created>1723556439933</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723556439933</updated>
+    </task>
+    <task id="LOCAL-00010" summary="updated">
+      <option name="closed" value="true" />
+      <created>1723557971519</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723557971519</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added new files">
+      <option name="closed" value="true" />
+      <created>1724865259461</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724865259461</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added new file" />
     <MESSAGE value="changes added" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes added" />
+    <MESSAGE value="new learnings" />
+    <MESSAGE value="updated" />
+    <MESSAGE value="Added new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new files" />
   </component>
 </project>
