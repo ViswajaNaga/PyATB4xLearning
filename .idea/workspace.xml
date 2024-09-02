@@ -5,15 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f505a03-bd33-4a8a-9e9c-1f9ccb04301e" name="Changes" comment="Added new files">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_17082024/Lab016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_17082024/Lab017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_20082024/Lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_20082024/Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_20082024/Lab020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_20082024/Lab021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_20082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_22082024/Lab022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_22082024/Lab023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_22082024/Lab024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_22082024/Lab025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_22082024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dt_13082024/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dt_13082024/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Task3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task3.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,9 +78,20 @@
     "Python.Lab015.executor": "Run",
     "Python.Lab016.executor": "Run",
     "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020.executor": "Run",
+    "Python.Lab021.executor": "Run",
+    "Python.Lab022.executor": "Run",
+    "Python.Lab023.executor": "Run",
+    "Python.Lab024.executor": "Run",
+    "Python.Lab025.executor": "Run",
     "Python.Task4.executor": "Run",
     "Python.Task5.executor": "Run",
     "Python.Task6.executor": "Run",
+    "Python.Task7.executor": "Run",
+    "Python.Task8.executor": "Run",
+    "Python.Task9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Balakrishna/PycharmProjects/PyATB4xLearning/src/dt_17082024"
@@ -223,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724865259461</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added new files">
+      <option name="closed" value="true" />
+      <created>1725086938263</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725086938263</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
