@@ -13,7 +13,7 @@ print(fact)
 
 # using while loop
 
-number = num = int(input("enter number"))
+num = int(input("enter number"))
 fact = 1
 i = 1
 while (i <= num):
