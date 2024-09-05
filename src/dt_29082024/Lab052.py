@@ -1,4 +1,4 @@
-# Dictionary
+# Dictionary # used in JSON format for API automation
 # key and value
 
 student_info={
@@ -35,7 +35,7 @@ print("------------------------------------")
 
 # Dictionary is an unordered collection of data.
 
-student_info={
+student1_info={
     "name":"chinnu",
     "age":5,
     "address":{
@@ -44,7 +44,21 @@ student_info={
      }
 }
 
-print(student_info)
+print(student1_info)
 
+student2_info={
+    "name":"lucky",
+    "age":2,
+    "address":{
+    "home_address":"KA",
+    "school_address":"TD"
+     }
+}
+
+student_list=[student1_info,student2_info]
+print(student_list)
 # Dictionary inside the dictionary is allowed.
+
+
+
 
