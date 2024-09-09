@@ -5,15 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f505a03-bd33-4a8a-9e9c-1f9ccb04301e" name="Changes" comment="Added new files">
-      <change afterPath="$PROJECT_DIR$/src/dt_29082024/Lab045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_29082024/Lab046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_29082024/Lab047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_29082024/Lab048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_29082024/Lab049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_29082024/Lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_29082024/Lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_29082024/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_29082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_05092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_31082024/Lab053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_31082024/Lab054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_31082024/Lab055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_31082024/Lab056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dt_31082024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +116,19 @@
     "Python.Lab050.executor": "Run",
     "Python.Lab051.executor": "Run",
     "Python.Lab052.executor": "Run",
+    "Python.Lab053.executor": "Run",
+    "Python.Lab054.executor": "Run",
+    "Python.Lab055.executor": "Run",
+    "Python.Lab056.executor": "Run",
+    "Python.Lab057.executor": "Run",
+    "Python.Lab058.executor": "Run",
+    "Python.Lab059.executor": "Run",
+    "Python.Lab061.executor": "Run",
+    "Python.Lab062.executor": "Run",
+    "Python.Lab063.executor": "Run",
+    "Python.Lab064.executor": "Run",
+    "Python.Lab065.executor": "Run",
+    "Python.Lab066.executor": "Run",
     "Python.Labo33.executor": "Run",
     "Python.Task10.executor": "Run",
     "Python.Task4.executor": "Run",
@@ -117,18 +139,20 @@
     "Python.Task9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Balakrishna/PycharmProjects/PyATB4xLearning/src/dt_29082024"
+    "last_opened_file_path": "C:/Users/Balakrishna/PycharmProjects/PyATB4xLearning/src/SEP/dt_03092024"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP\dt_03092024" />
+      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP" />
+      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\dt_31082024" />
       <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\dt_29082024" />
       <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\dt_27082024" />
-      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\dt_17082024" />
-      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\dt_13082024" />
-      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\dt_08082024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP\dt_03092024" />
+      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP" />
       <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src" />
       <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\Tasks" />
     </key>
@@ -298,7 +322,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725375308687</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added new files">
+      <option name="closed" value="true" />
+      <created>1725556476696</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725556476696</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added new files">
+      <option name="closed" value="true" />
+      <created>1725556816620</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1725556816620</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
