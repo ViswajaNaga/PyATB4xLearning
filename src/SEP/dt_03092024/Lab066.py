@@ -1,4 +1,5 @@
-# Encapsulation
+# Encapsulation- mother(class) want to keep their child (private variables) secure
+# encapsulation is used for security
 # protects its variables by using methods is called encapsulation
 # Hides the data members( class variables, Instance variables)
 # by using only methods
