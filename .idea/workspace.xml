@@ -4,25 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f505a03-bd33-4a8a-9e9c-1f9ccb04301e" name="Changes" comment="Added new files">
-      <change afterPath="$PROJECT_DIR$/src/SEP/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/Lab066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEP/dt_03092024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEP/dt_05092024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_31082024/Lab053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_31082024/Lab054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_31082024/Lab055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_31082024/Lab056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dt_31082024/__init__.py" afterDir="false" />
+    <list default="true" id="9f505a03-bd33-4a8a-9e9c-1f9ccb04301e" name="Changes" comment="modified">
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_05092024/Lab067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_05092024/Lab068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_05092024/Lab069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_05092024/Lab070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_05092024/Lab071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_05092024/Lab072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_05092024/Lab073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_05092024/Lab074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_05092024/Lab075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_05092024/Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_05092024/Lab077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_05092024/Lab078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_07092024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,6 +124,18 @@
     "Python.Lab064.executor": "Run",
     "Python.Lab065.executor": "Run",
     "Python.Lab066.executor": "Run",
+    "Python.Lab067.executor": "Run",
+    "Python.Lab068.executor": "Run",
+    "Python.Lab069.executor": "Run",
+    "Python.Lab070.executor": "Run",
+    "Python.Lab071.executor": "Run",
+    "Python.Lab072.executor": "Run",
+    "Python.Lab073.executor": "Run",
+    "Python.Lab074.executor": "Run",
+    "Python.Lab075.executor": "Run",
+    "Python.Lab076.executor": "Run",
+    "Python.Lab077.executor": "Run",
+    "Python.Lab078.executor": "Run",
     "Python.Labo33.executor": "Run",
     "Python.Task10.executor": "Run",
     "Python.Task4.executor": "Run",
@@ -139,18 +146,19 @@
     "Python.Task9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Balakrishna/PycharmProjects/PyATB4xLearning/src/SEP/dt_03092024"
+    "last_opened_file_path": "C:/Users/Balakrishna/PycharmProjects/PyATB4xLearning/src/SEP/dt_05092024"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP\dt_03092024" />
+      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP\dt_05092024" />
       <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP" />
+      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP\dt_03092024" />
       <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\dt_31082024" />
       <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\dt_29082024" />
-      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\dt_27082024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP\dt_05092024" />
       <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP\dt_03092024" />
       <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP" />
       <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src" />
@@ -338,7 +346,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725556816620</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Added new files">
+      <option name="closed" value="true" />
+      <created>1725905142204</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725905142204</updated>
+    </task>
+    <task id="LOCAL-00019" summary="modified">
+      <option name="closed" value="true" />
+      <created>1726046234619</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1726046234619</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -347,6 +371,7 @@
     <MESSAGE value="new learnings" />
     <MESSAGE value="updated" />
     <MESSAGE value="Added new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new files" />
+    <MESSAGE value="modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified" />
   </component>
 </project>
