@@ -1,4 +1,5 @@
 # Method Overriding- Same name in parent and Child
+# only Method overriding is present in Python-Run time
 # Child always override parent functions
 # super means call my parent function
 class Grandfather:
