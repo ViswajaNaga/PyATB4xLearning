@@ -1,5 +1,6 @@
 # whichever is common we will mark it as staticmethod
 # static class is not possible in python , it is possible in Java
+# static belongs to class not the object.self is object
 class ExcelReader:
 
     @staticmethod
