@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f505a03-bd33-4a8a-9e9c-1f9ccb04301e" name="Changes" comment="Added new files">
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Lab090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Lab091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Lab092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Lab093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Lab094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Lab095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Lab096.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Lab097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Lab098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Lab099.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Lab100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Lab101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Lab102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Lab103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Lab104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Lab105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/Test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/testdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEP/dt_10092024/viswaja.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SEP/dt_07092024/Lab081.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEP/dt_07092024/Lab081.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +152,22 @@
     "Python.Lab086.executor": "Run",
     "Python.Lab088.executor": "Run",
     "Python.Lab089.executor": "Run",
+    "Python.Lab090.executor": "Run",
+    "Python.Lab091.executor": "Run",
+    "Python.Lab092.executor": "Run",
+    "Python.Lab093.executor": "Run",
+    "Python.Lab094.executor": "Run",
+    "Python.Lab095.executor": "Run",
+    "Python.Lab096.executor": "Run",
+    "Python.Lab097.executor": "Run",
+    "Python.Lab098.executor": "Run",
+    "Python.Lab099.executor": "Run",
+    "Python.Lab100.executor": "Run",
+    "Python.Lab101.executor": "Run",
+    "Python.Lab102.executor": "Run",
+    "Python.Lab103.executor": "Run",
+    "Python.Lab104.executor": "Run",
+    "Python.Lab105.executor": "Run",
     "Python.Labo33.executor": "Run",
     "Python.Task10.executor": "Run",
     "Python.Task4.executor": "Run",
@@ -144,16 +178,16 @@
     "Python.Task9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Balakrishna/PycharmProjects/PyATB4xLearning/src/SEP/dt_07092024"
+    "last_opened_file_path": "C:/Users/Balakrishna/PycharmProjects/PyATB4xLearning/src/SEP/dt_10092024"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP\dt_10092024" />
       <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP\dt_07092024" />
       <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP\dt_05092024" />
       <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP" />
       <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP\dt_03092024" />
-      <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\dt_31082024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP\dt_05092024" />
@@ -384,7 +418,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726157172965</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Added new files">
+      <option name="closed" value="true" />
+      <created>1726157514225</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1726157514225</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
