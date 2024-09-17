@@ -28,8 +28,8 @@ for file in os.listdir('.'):
 # os.rename('example.txt','testdata.txt')
 
 # full_path=os.path.join('folder','file.txt')
-# full_path = os.path.join("C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP\dt_10092024", "testdata.txt")
-# print(full_path)
+full_path = os.path.join(r"C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP\dt_10092024", "testdata.txt")
+print(full_path)
 
 print(os.path.exists("testdata.txt")) #True
 print(os.path.isfile("testdata.txt")) #True
