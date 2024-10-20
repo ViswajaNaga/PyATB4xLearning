@@ -89,3 +89,23 @@ def test_put_request_positive():
     print(data)
 
     assert data["firstname"] == "Viswaja"
+
+
+
+def test_delete_request():
+    base_url = "https://restful-booker.herokuapp.com/"
+    base_path = "/booking/" + str(create_booking())
+    DELETE_URL = base_url + base_path
+    print(DELETE_URL)
+    cookie = "token=" + create_token()
+    print(cookie)
+
+    headers = {
+        "Content-Type": "application/json",
+        "Cookie": cookie
+    }
+
+    print(headers)
+
+    response=requests.delete(url=DELETE_URL,headers=headers)
+
