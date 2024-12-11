@@ -12,5 +12,4 @@ def outer_fun():
     inner_fun1()
     inner_fun2()
 
-
 outer_fun()
