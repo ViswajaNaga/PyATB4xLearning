@@ -5,9 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f505a03-bd33-4a8a-9e9c-1f9ccb04301e" name="Changes" comment="Create booking and update booking API">
-      <change afterPath="$PROJECT_DIR$/src/OCT/dt_10102024/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OCT/dt_10102024/test_task_put_patch_using_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_08082024/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day1/Lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_08082024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day1/Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_08082024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_10082024/Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day2/Lab003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_10082024/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day2/Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_10082024/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day2/Lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_10082024/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day2/Lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_10082024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_13082024/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day3/Lab007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_13082024/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day3/Lab008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_13082024/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day3/Lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_13082024/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day3/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_13082024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_17082024/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day4/Lab011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_17082024/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day4/Lab012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_17082024/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day4/Lab013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_17082024/Lab014.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day4/Lab014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_17082024/Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day4/Lab015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_17082024/Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day4/Lab016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_17082024/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day4/Lab017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_17082024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/Day4/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AUG/dt_27082024/Lab036.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AUG/dt_27082024/Lab036.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +202,7 @@
     &quot;Python.Testcase1.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Balakrishna/PycharmProjects/PyATB4xLearning&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Balakrishna/PycharmProjects/PythonLearning&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -198,75 +221,7 @@
       <recent name="C:\Users\Balakrishna\PycharmProjects\PyATB4xLearning\src\SEP" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab124.test_update_req1">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="Python tests for test_Lab124.test_update_req1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -340,40 +295,6 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_Lab128.Test_CRUD.test_update_2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -634,7 +555,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729447554918</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Create booking and update booking API">
+      <option name="closed" value="true" />
+      <created>1733892927918</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1733892927918</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
